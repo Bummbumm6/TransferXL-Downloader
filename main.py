@@ -65,7 +65,7 @@ json_data = {
 
 params_pending = {
     'perFilePendingStatus': 'true',
-    'shortUrl': '08vkvQ7f635p8v',
+    'shortUrl': id,
 }
 
 print("Getting token")
